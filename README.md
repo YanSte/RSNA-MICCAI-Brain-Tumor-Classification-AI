@@ -12,3 +12,9 @@ Using the MRI images provided for the competition, the model is trained to predi
 The competition is organized by the Radiological Society of North America (RSNA®) and the Medical Image Computing and Computer Assisted Intervention Society (MICCAI Society).
 
 https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification/overview
+
+# Contributors
+
+- [David Goudard](https://www.kaggle.com/goudgoud)
+- [Louis-Marie Renaud](https://www.kaggle.com/louismarierenaud)
+- [Yannick Stephan](https://github.com/YanSteph)
