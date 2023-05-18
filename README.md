@@ -1,4 +1,4 @@
-# Brain Tumor Imaging Prediction AI Project 
+# RSNA-MICCAI Brain Tumor Classification AI
 
 The aim of this project is to predict the presence of a specific genetic mutation in a brain tumor called glioblastoma using MRI (magnetic resonance imaging) images to train and test a model for detecting the presence of MGMT promoter methylation.
 
