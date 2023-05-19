@@ -2,7 +2,10 @@
 
 The RSNA-MICCAI Brain Tumor Radiogenomic Classification Contest is a multi-class classification problem, giving MRIs based on radiomic features, where the goal is to predict the presence of MGMT promoter methylation.
 
-Project [RSNA-MICCAI Brain Tumor Radiogenomic Classification Project](https://www.kaggle.com/code/yannicksteph/rsna-miccai-brain-tumor-classification)
+<a href="https://www.kaggle.com/code/yannicksteph/rsna-miccai-brain-tumor-classification" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg"></a></br>
+
+
+[RSNA-MICCAI Brain Tumor Radiogenomic Classification Project](https://www.kaggle.com/code/yannicksteph/rsna-miccai-brain-tumor-classification)
 
 There are three classes: 
 - LGG (low-grade glioma)
